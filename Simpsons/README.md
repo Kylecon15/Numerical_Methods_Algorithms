@@ -1,6 +1,6 @@
 ## Simpsons Method
 * Estimates the integral of the function by using Simpsons 1/3 rule
-* First we see if the 
+* First we see if the given interval is equally spaced across all points and whether it has an even or odd number of points within the array
 #### Inputs: 
 * x = equally or unequally spaced interval vector
 * y = the values of the function with respect to x
