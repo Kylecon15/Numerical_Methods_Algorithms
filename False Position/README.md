@@ -2,7 +2,7 @@
 * Locates the root of the function by using the false position formula
 
 * Checks to see if there is a sign change to recorrect the bounds to better estimate the root
-* program will stop if the max number of iterations or relative error is reached
+* program will stop if the max number of iterations or desired relative error is reached
 
 #### Inputs:
 * func = the function being evaluated
