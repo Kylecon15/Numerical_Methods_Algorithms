@@ -3,7 +3,7 @@
 #### False Position
 * Locates the root of the function by using the false position formula
 #### LU Factorization
-
+* Determines the LU Factorization of a square matrix by using partial pivoting and decomposition to find the lower and upper triangular matrices
 #### Prime #'s
 
 #### Simpsons Method
