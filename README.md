@@ -7,5 +7,5 @@
 #### Prime #'s
 * Determines all prime numbers between a given array
 #### Simpsons Method
-
+* Estimates the integral of the function by using Simpsons 1/3 rule and the trapezoidal rule
 
