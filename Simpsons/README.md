@@ -1,8 +1,9 @@
 ## Simpsons Method
 * Estimates the integral of the function by using Simpsons 1/3 rule
 * First we see if the given interval is equally spaced across all points and whether it has an even or odd number of points within the array
-* Then if there is an even ammount of points then Simpsons 1/3 rule is only used
-* However if there are an odd ammount of points then the Simpsons 1/3 rule is used up until the last interval where the trapezoidal rule will be used
+* Then if there are an even number of points then only the Simpsons 1/3 rule is used
+* However, if there are an odd number of points then the Simpsons 1/3 rule is used up until the last interval where the trapezoidal rule will be used for that last iteration
+* Finally the
 #### Inputs: 
 * x = equally or unequally spaced interval vector
 * y = the values of the function with respect to x
