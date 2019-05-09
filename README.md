@@ -5,7 +5,7 @@
 #### LU Factorization
 * Determines the LU Factorization of a square matrix by using partial pivoting and decomposition to find the lower and upper triangular matrices
 #### Prime #'s
-
+* Determines all prime numbers between a given array
 #### Simpsons Method
 
 
