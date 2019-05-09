@@ -1,5 +1,6 @@
 ## Prime Number Finder
-* prime determines all prime numbers between m and n
+* The function prime determines all prime numbers between m and n
+
 #### Inputs: 
 * m - an integer
 * n - an integer where n>m
