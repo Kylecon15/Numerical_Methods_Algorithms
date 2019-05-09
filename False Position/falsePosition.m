@@ -5,7 +5,7 @@ function [root,fx,ea,iter] = falsePosition(func,xl,xu,es,maxiter)
 % func = the function being evaluated
 % xl = lower guess
 % xu = upper guess
-% es = the desired rekative error (default to 0.0001%)
+% es = the desired relative error (default to 0.0001%)
 % maxiter = the number of iterations desired ( default to 200)
 % Outputs:
 % root = the estimated root location
