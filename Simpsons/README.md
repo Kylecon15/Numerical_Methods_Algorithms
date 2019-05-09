@@ -1,4 +1,6 @@
 ## Simpsons Method
+* Estimates the integral of the function by using Simpsons 1/3 rule
+* First we see if the 
 #### Inputs: 
 * x = equally or unequally spaced interval vector
 * y = the values of the function with respect to x
